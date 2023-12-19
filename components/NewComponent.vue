@@ -16,7 +16,7 @@
 	// }
 </script>
 <template>
-    <MiscLateralScreens></MiscLateralScreens>
+    <VCardMiscContentWrapping></VCardMiscContentWrapping>
     <TwitterCard/>
     <WeatherCard/>
 </template>
